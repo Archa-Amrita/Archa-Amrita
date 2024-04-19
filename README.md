@@ -39,7 +39,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Archa-Amrita&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Archa-Amrita&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 <!--
 **Archa-Amrita/Archa-Amrita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
