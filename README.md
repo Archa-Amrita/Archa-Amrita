@@ -7,7 +7,7 @@
 - 👀 I’m interested in building  Fullstack Web Applications using React.
 - 💞️ I’m familiar with both backend and frontend technologies.
 - 🌱 I’m currently learning React
-- 📫 How to reach me: archaamrita@gmail.com
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-archaamrita@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archaamrita@gmail.com)](mailto:archaamrita@gmail.com)
 
 # 📊 GitHub Stats:
   [![GitHub Streak](https://streak-stats.demolab.com?user=Archa-Amrita&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
