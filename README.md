@@ -11,6 +11,7 @@
 
 # 📊 GitHub Stats:
   [![GitHub Streak](https://streak-stats.demolab.com?user=Archa-Amrita&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
+  <!--| <a href="https://github.com/Archa-Amrita/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Archa-Amrita&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Archa-Amrita's github stats" /></a> |--> <a href="https://github.com/Archa-Amrita/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archa-Amrita&layout=compact&theme=tokyonight&border_radius=15&card_width=1000" /></a> 
 
 
 
