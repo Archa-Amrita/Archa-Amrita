@@ -4,9 +4,9 @@
 
 
 
-- 👀 I’m interested in building  Fullstack Web Applications using React.
+- 👀 I’m interested in building  Fullstack Web Applications using React and Node.
 - 💞️ I’m familiar with both backend and frontend technologies.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js and Node.js
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-archaamrita@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archaamrita@gmail.com)](mailto:archaamrita@gmail.com)
 
 # 📊 GitHub Stats:
